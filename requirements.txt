@@ -1,0 +1,9 @@
+python-dotenv
+sounddevice
+numpy
+simpleaudio
+openai
+speechrecognition
+pocketsphinx
+pyttsx3
+pyaudio

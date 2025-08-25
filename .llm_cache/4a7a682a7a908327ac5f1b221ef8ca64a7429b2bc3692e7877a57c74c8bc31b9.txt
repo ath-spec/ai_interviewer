@@ -1,0 +1,12 @@
+```json
+{
+  "raw_answers": {
+    "background": "I’m Aisha Khan, and for the past four years I’ve been working in growth marketing at a fintech startup. My role involved campaign analytics, dashboarding, and running A/B tests. Over time I found myself drawn more to the technical side of the work, so I began teaching myself Python and SQL to automate reports. I even built a churn-prediction prototype, and that’s when I realized I wanted to fully transition into data science and AI.",
+    "why_lunartech": "I’m excited about LunarTech because of its focus on practical, hands-on projects that build real portfolios. I value that the curriculum is aligned with industry needs and supported by mentors who understand the hiring landscape. I also appreciate that LunarTech emphasizes accessibility and community, which makes it feel like the right environment for someone making a career switch like me.",
+    "experience": "My experience so far has been self-driven. I’ve used Python and pandas to clean and analyze marketing data, built automated weekly reporting scripts, and deployed a Streamlit dashboard for my team. I also experimented with scikit-learn to create a basic churn prediction model, which gave me hands-on exposure to the machine learning workflow. While I still have much to learn, these projects showed me how much I enjoy applying data science methods to real problems.",
+    "future_goals": "In the short term, I’d like to land a data analyst role where I can use SQL, Python, and visualization tools to drive decisions. Over the longer term, my goal is to grow into a data scientist role, focusing on experimentation, causal inference, and predictive modeling. Ultimately, I’d like to apply these skills to customer retention and product growth problems, where I can see the direct impact of my work.",
+    "readiness": "I’m ready to start immediately. To make the most of the program, I’d appreciate some refresher resources on statistics and probability, as well as structured practice with SQL interview questions. Having that support will help me feel fully prepared and confident as I move into a data-focused career path."
+  },
+  "notes": {
+    "background": "Transitioning from growth marketing to data science/AI, with self-taught Python/SQL skills and a churn-prediction prototype.",
+    "why_lunartech": "Values LunarTech’s hands

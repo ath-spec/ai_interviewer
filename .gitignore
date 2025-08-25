@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Logs & outputs
+sessions/
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# macOS / Windows cruft
+.DS_Store
+Thumbs.db
